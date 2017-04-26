@@ -1,3 +1,4 @@
 
 
-Hello my name is Rahmi PRuitt
+Hello my name is Rahmi Pruitt. 
+
